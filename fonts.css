@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.MonacoFontWhite {
+    font-family: "Monaco", monospace;
+	color: white
+}
+
+.MonacoFontBlack {
+    font-family: "Monaco", monospace;
+	color: black
+}
