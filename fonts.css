@@ -1,0 +1,34 @@
+.MonacoWhite {
+    font-family: "Monaco", monospace;
+	color: white
+}
+
+.MonacoBlack {
+    font-family: "Monaco", monospace;
+	color: black
+}
+
+.MonacoZHBClaret {
+    font-family: "Monaco", monospace;
+    color: #7A263A
+}
+
+.MonacoZHBSkyBlue {
+    font-family: "Monaco", monospace;
+    color: #1BB1E7
+}
+
+.MonacoGray {
+    font-family: "Monaco", monospace;
+	color: gray
+}
+
+.MonacoDarkRed {
+    font-family: "Monaco", monospace;
+    color: darkred
+}
+
+.MonacoSkyBlue {
+    font-family: "Monaco", monospace;
+    color: skyblue
+}
